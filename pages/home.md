@@ -79,7 +79,7 @@ components:
               mobile: ''
             - type: Text
               hasDropCap: false
-              content: '# UMA PLATAFORMA DE CÓDIGO ABERTO E CUSTOMIZÁVEL PARA A CRIAÇÃO E PUBLICAÇÃO DE NARRATIVAS CARTOGRÁFICAS MULTIMÍDIA!!!@.'
+              content: '# UMA PLATAFORMA DE CÓDIGO ABERTO E CUSTOMIZÁVEL PARA A CRIAÇÃO E PUBLICAÇÃO DE NARRATIVAS CARTOGRÁFICAS MULTIMÍDIA!!!@@.'
             - type: Spacer
               desktop: 200px
               tablet: ''
